@@ -28,22 +28,7 @@ MAVY is a comprehensive application designed to streamline screen recording and 
 - **Video Handling**:
   - Processes and stores videos from the desktop app.
   - Updates video details on the Next.js web application.
-
----
-
-## 📦 Project Repositories
-
-### Web Application
-[MAVY Web (Next.js)]([https://github.com/Vinayak820/MAVY---RealTime-Video-Sharing-Platform](https://github.com/Vinayak820/MAVY---RealTime-Video-Sharing-Platform.git)): Contains the frontend for video management and collaboration.
-
-<!-- Update these links if you host Electron/Server repos separately -->
-### Desktop Application
-Coming Soon — Electron.js desktop app for screen recording and real-time uploads.
-
-### Video Processing Server
-Coming Soon — Express.js server for backend video processing and updates.
-
----
+    
 
 ## 🧠 Usage Guide
 
